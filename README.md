@@ -15,6 +15,7 @@ public class Main {
                  c=1;
             }
         }
+        System.out.println(a[n-2]+"->"+c);
        
     }
 }
